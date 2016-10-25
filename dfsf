@@ -1,0 +1,37 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{vietnam}
+\usepackage{fancybox}
+\usepackage[left=3.50cm, right=2.00cm, top=2.00cm, bottom=2.00cm]{geometry}
+\begin{document}
+\thispagestyle{empty}
+\thisfancypage{
+\setlength{\fboxsep}{0pt}
+\fbox}{} 
+\begin{center}
+\begin{large}
+TRƯỜNG ĐẠI HỌC BÁCH KHOA HÀ NỘI
+\end{large} \\
+\begin{large}
+VIỆN CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG
+\end{large} \\
+\textbf{--------------------  *  ---------------------}\\[4cm]
+{\fontsize{32pt}{1}\selectfont BÁO CÁO\\ \textbf{MÔN HỌC}}\\[0.5cm]
+{\fontsize{20pt}{1}\selectfont NHẬP MÔN CÔNG NGHỆ THÔNG TIN}\\[5cm]
+\end{center}
+
+\hspace{4cm} Nhóm sinh viên thực hiện : \hspace{2pt}
+\textbf{\parbox[t]{5cm}{    
+Trần Phương Nam
+}}\\[12pt]
+
+\hspace{4cm} Giáo viên hướng dẫn  :  \hspace{2pt} \textbf{\parbox[t]{6cm}{Phạm Thị Phương Giang
+}}
+
+\vspace{5cm}
+\begin{center}
+{\fontsize{16pt}{1}\selectfont HÀ NỘI}\\
+{\fontsize{16pt}{1}\selectfont \today}
+\end{center}
+
+
+\end{document}
